@@ -16,7 +16,9 @@
 #
 # You can start this by executing it in python:
 # python server.py
-#
+# #<!-- link: https://github.com/sam9116/CMPUT404-assignment-ajax/blob/master/static/index.html 
+#     author: https://github.com/sam9116
+#     license: https://www.apache.org/licenses/LICENSE-2.0 -->
 # remember to:
 #     pip install flask
 
